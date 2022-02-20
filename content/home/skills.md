@@ -18,8 +18,8 @@ subtitle:
 feature:
 - description: 90%
   icon: flutter-original
-  icon_pack: fab
-  name: R
+  icon_pack: custom
+  name: Flutter
 - description: 100%
   icon: chart-line
   icon_pack: fas
