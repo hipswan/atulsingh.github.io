@@ -25,7 +25,7 @@ experience:
   - title: Software Development Engineer-I
     company: Snapwork Technologies Pvt. Ltd.
     company_url: 'snapwork.com'
-    company_logo: org-snapwork.jpeg
+    company_logo: org-snapwork
     location: Mumbai, Maharashtra, India
     date_start: '2021-05-24'
     date_end: '2021-09-01'
@@ -41,7 +41,7 @@ experience:
   - title: Software Engineer
     company: Larsen & Toubro Infotech Ltd.
     company_url: ''
-    company_logo: org-lti.jpeg
+    company_logo: org-lti
     location: Pune, Maharashtra, India
     date_start: '2018-07-24'
     date_end: '2021-05-24'
