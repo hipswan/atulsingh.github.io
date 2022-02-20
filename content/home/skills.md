@@ -29,6 +29,10 @@ feature:
   icon_pack: custom
   name: React
 - description: ⭐️⭐️⭐️
+  icon: python-original
+  icon_pack: custom
+  name: Python
+- description: ⭐️⭐️⭐️
   icon: html5-original
   icon_pack: custom
   name: HTML
