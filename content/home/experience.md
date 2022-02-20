@@ -26,7 +26,7 @@ experience:
     company: Snapwork Technologies Pvt. Ltd.
     company_url: 'snapwork.com'
     company_logo: org-gc
-    location: California
+    location: Mumbai, Maharashtra, India
     date_start: '2021-05-24'
     date_end: '2021-09-01'
     description: |2-
@@ -42,7 +42,7 @@ experience:
     company: Larsen & Toubro Infotech Ltd.
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Pune, Maharashtra, India
     date_start: '2018-07-24'
     date_end: '2021-05-24'
     description: |2-
