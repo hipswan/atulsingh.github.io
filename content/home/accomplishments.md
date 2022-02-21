@@ -23,30 +23,31 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: http://ude.my/UC-34abb4f1-1992-463e-8499-cf132675c9f2
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
+  date_start: "2020-04-20"
+  description: "Learnt how to build a web application using the MERN Stack."
+  organization: Udemy
+  organization_url: https://www.udemy.com/
+  title: The Complete 2020 Web Development Bootcamp
+  url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/V94LTLCYAVSY
+  date_end: ""
+  date_start: "2020-01-20"
+  description: Learnt Nuances of Machine Learning using multivariate calculus.
   organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization_url: https://www.coursera.org/
+  title: "Mathematics for Machine Learning: Multivariate Calculus"
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/8Y35YM5LM845
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  date_start: "2019-12-01"
+  description: Learnt SQL require to infer knowledge about the data in a database.
+  organization: Coursera
+  organization_url: https://www.coursera.org/
+  title: SQL for Data Science
   url: ""
+
 
 design:
   columns: '2' 
