@@ -15,19 +15,6 @@ address:
 summary: Talk on how to prepare for an interview.
 
 abstract:
-  - **Accountability: Taking Responsibility of your work**
-  [The reason why one needs to be confident while sharing their   opinions](https://www.antwak.com/author/2338-atul-singh/videos/ 30252-the-reason-why-one-needs-to-be-confident-while-sharing-thei  r-opinions)
-
-  - **Building and adding creativity in the workplace**
-  [The role of creativity and innovation in a technical interview]  (https://www.antwak.com/author/2338-atul-singh/videos/  30256-the-role-of-creativity-and-innovation-in-a-technical-interv iew)
-
-  - **Building Impressive Resumes and conducting interviews**
-  [What can be scenario if the candidate has no internship  experience but is a part of multiple college clubs?
-  ](https://www.antwak.com/author/2338-atul-singh/videos/ 30253-what-can-be-scenario-if-the-candidate-has-no-internship-exp  erience-but-is-a-part-of-multiple-college-clubs)
-
-  - **General**
-  [What can be scenario if the candidate has no internship**
-  experience but is a part of multiple college clubs?](https://www.antwak.com/author/2338-atul-singh/videos/30253-what-can-be-scenario-if-the-candidate-has-no-internship-experience-but-is-a-part-of-multiple-college-clubs)
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -74,6 +61,19 @@ projects:
 - example
 ---
 
+- **Accountability: Taking Responsibility of your work**  
+[The reason why one needs to be confident while sharingtheir   opinions](https://www.antwak.com/author2338-atul-singh/videos/30252-the-reason-why-one-needs-to-be-confident-while-sharing-tei  r-opinions)
+
+- **Building and adding creativity in the workplace**
+[The role of creativity and innovation in a technicalinterview]  (https://www.antwak.com/author/2338-atul-singhvideos/ 30256-the-role-of-creativity-and-innovation-in-a-technical-intrv iew)
+
+- **Building Impressive Resumes and conducting interviews**
+[What can be scenario if the candidate has no internship experience but is a part of multiple college clubs?
+](https://www.antwak.com/author/2338-atul-singh/videos/30253-what-can-be-scenario-if-the-candidate-has-no-internship-xp  erience-but-is-a-part-of-multiple-college-clubs)
+
+- **General**
+[What can be scenario if the candidate has no internship**
+experience but is a part of multiple college clubs?](https:/www.antwak.com/author/2338-atul-singh/videos30253-what-can-be-scenario-if-the-candidate-has-no-internship-xperience-but-is-a-part-of-multiple-college-clubs)
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
