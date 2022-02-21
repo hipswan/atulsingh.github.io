@@ -10,6 +10,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "ffdf"
-  image: static/media/featured.jpg
+  caption: ""
+  image: ""
 ---
