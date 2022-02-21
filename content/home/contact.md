@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: atularvi@buffalo.edu
   phone: (716) 617-9315
   address:
     street: 231 Englewood Ave
