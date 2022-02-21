@@ -1,13 +1,13 @@
 ---
 title: Contactless Attendance System
-summary: Attendance System for Students
+summary: Hajeri is a 100% Free & Secure QR Code Scanning-based Attendance Management System. Just Scan the QR code with the Hajeri App and mark your attendance.
 tags:
 - Flutter
 - Dart
 date: "2021-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/hipswan/hajeri.git"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -18,7 +18,11 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/atulsingh158
-url_code: ""
+- icon: github
+  icon_pack: fab
+  name: GitHub
+  url: https://github.com/hipswan/hajeri
+url_code: "https://github.com/hipswan/hajeri"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -31,12 +35,40 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Hajeri is a 100% Free & Secure QR Code Scanning-based Attendance Management System. Just Scan the QR code with the Hajeri App and mark your attendance.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Hajeri is cloud-based attendance management and therefore, offers the benefits of flexibility, cost optimization, and ease of access across devices and platforms. A cloud-based attendance management system is widely accessible from any device i.e. Mobile as well as Desktop. This also implies a browser integration – which means the system can also be put to work even where installing an app is a challenge. Also, the Hajeri mobile platform helps boost the productivity of the field workers and remote employees, as it enables real-time capturing of Time & Attendance from any location
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Other Basic Benefits of Hajeri:
+- Manage Branches, Departments in the same premises or spread worldwide from one phone,
+- Mark your attendance in a single click,
+- Paperless Attendance System,
+- Touch-less Attendance System,
+- No need for fingerprints or paperwork,
+- Online attendance management system,
+- Real-time reporting on Mobile Phone or Desktop,
+- Online attendance management system for Visitors
+- Manage as per Date and Time
+- Track the employee records easily on Mobile
+- All records of attendance stored online
+- Easily log in with simple details
+- 100% Safe and Secure Data
+- Made in India
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Visit website for detailed information- www.hajeri.in
+
+Download Hajeri On Play Store
+https://apps.apple.com/in/app/hajeri/id1565960868
+
+Download on Apple Store
+https://play.google.com/store/apps/details...
+
+Don't forget to subscribe to our channel: https://www.youtube.com/channel/UCvZKfMAg2mLkhTSsNsQwbIQ
+
+Follow us on
+
+Facebook- https://www.facebook.com/hajeriapp/
+Instagram- https://www.instagram.com/hajeri.in/
+Linkdin- https://www.linkedin.com/company/hajeri-in
+Twitter- https://twitter.com/hajeriapp
