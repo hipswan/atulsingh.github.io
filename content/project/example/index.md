@@ -22,6 +22,14 @@ links:
   icon_pack: fab
   name: GitHub
   url: https://github.com/hipswan/hajeri
+- icon: android
+  icon_pack: fas
+  name: Android
+  url: https://play.google.com/store/apps/details?id=am.attendance.hajeri
+- icon: app-store-ios
+  icon_pack: fas
+  name: IOS
+  url: https://apps.apple.com/us/app/hajeri/id1565960868?ign-mpt=uo%3D4
 url_code: "https://github.com/hipswan/hajeri"
 url_pdf: ""
 url_slides: ""
@@ -32,7 +40,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: "" #example
 ---
 
 Hajeri is a 100% Free & Secure QR Code Scanning-based Attendance Management System. Just Scan the QR code with the Hajeri App and mark your attendance.
