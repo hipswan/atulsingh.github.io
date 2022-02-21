@@ -18,6 +18,7 @@ bio: I'm specializing in the field of artificial intelligence and machine learni
 
 # Interests to show in About widget
 interests:
+- Mobile Application Development
 - Artificial Intelligence
 - Computer Vision
 - Information Retrieval
