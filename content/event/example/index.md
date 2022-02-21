@@ -1,28 +1,42 @@
 ---
-title: Example Talk
+title: Soft Skills Needed for a Successful Interview
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: AntWak
+event_url: https://www.antwak.com/author/2338-atul-singh
 
-location: Wowchemy HQ
+location: AntWak
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: Mumabi
+  region: Maharashtra
+  postcode: 
+  country: India
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Talk on how to prepare for an interview.
+
+abstract:
+  - **Accountability: Taking Responsibility of your work**
+  [The reason why one needs to be confident while sharing their   opinions](https://www.antwak.com/author/2338-atul-singh/videos/ 30252-the-reason-why-one-needs-to-be-confident-while-sharing-thei  r-opinions)
+
+  - **Building and adding creativity in the workplace**
+  [The role of creativity and innovation in a technical interview]  (https://www.antwak.com/author/2338-atul-singh/videos/  30256-the-role-of-creativity-and-innovation-in-a-technical-interv iew)
+
+  - **Building Impressive Resumes and conducting interviews**
+  [What can be scenario if the candidate has no internship  experience but is a part of multiple college clubs?
+  ](https://www.antwak.com/author/2338-atul-singh/videos/ 30253-what-can-be-scenario-if-the-candidate-has-no-internship-exp  erience-but-is-a-part-of-multiple-college-clubs)
+
+  - **General**
+  [What can be scenario if the candidate has no internship**
+  experience but is a part of multiple college clubs?](https://www.antwak.com/author/2338-atul-singh/videos/30253-what-can-be-scenario-if-the-candidate-has-no-internship-experience-but-is-a-part-of-multiple-college-clubs)
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2020-12-12T00:00:00Z'
+date_end: '2020-12-12T00:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2020-12-12T00:00:00Z'
 
 authors: []
 tags: []
@@ -38,7 +52,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/atulsingh158
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -49,7 +63,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
