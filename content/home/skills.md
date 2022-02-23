@@ -16,27 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: ⭐️⭐️⭐️
+- description: ★★★★☆
   icon: flutter-original
   icon_pack: custom
   name: Flutter
-- description: ⭐️⭐️⭐️
+- description: ★★★★☆
   icon: dart-original
   icon_pack: custom
   name: Dart
-- description: ⭐️⭐️⭐️
+- description: ★★★☆☆
   icon: react-original
   icon_pack: custom
   name: React
-- description: ⭐️⭐️⭐️
+- description: ★★★★☆
   icon: python-original
   icon_pack: custom
   name: Python
-- description: ⭐️⭐️⭐️
+- description: ★★★☆☆
   icon: html5-original
   icon_pack: custom
   name: HTML
-- description: ⭐️⭐️⭐️
+- description: ★★★☆☆
   icon: javascript-original
   icon_pack: custom
   name: Javascript
