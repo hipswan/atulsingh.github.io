@@ -25,32 +25,28 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: atularvi@buffalo.edu
+  email: singhatularvind@gmail.com
   phone: (716) 617-9315
   address:
-    street: 231 Englewood Ave
-    city: Buffalo
-    region: NY
-    postcode: '14214'
+    street: 704 Spring St Apt E2013
+    city: Seattle
+    region: WA
+    postcode: '98104'
     country: United States
     country_code: US
-  coordinates:
-    latitude: '42.886448'
-    longitude: '-78.878372'
-  directions: Near CVS Pharmacy
+  # coordinates:
+  #   latitude: '42.886448'
+  #   longitude: '-78.878372'
+  # directions: Near CVS Pharmacy
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+  appointment_url: 'https://calendly.com/singhatularvind/30min'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/atulsingh158'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
 
 design:
   columns: '2'
